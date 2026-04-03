@@ -137,25 +137,3 @@ CBAM integration consistently improved classification performance across CNN arc
 
 ---
 
-## Citation
-
-If you use this code, please cite:
-
-```bibtex
-@article{pae2026cec_cnn,
-  title     = {AI-Assisted Classification of Colorectal Lesions in Colonoscopy Using Attention Enhanced CNN},
-  author    = {Pae, Hyunmin and Han, Junghun and Park, Hong Jun and Kim, Hyunil and
-               Kim, Hyun-Soo and Soh, Jae Seung and Kim, Seong-Jung and
-               Kim, Ji Eun and Yang, Sejung and Kim, Su Young},
-  journal   = {Under revision},
-  year      = {2026}
-}
-```
-
----
-
-## Contact
-
-**Hyunmin Pae**  
-Yonsei University Wonju College of Medicine  
-📧 breeze1212@yonsei.ac.kr
