@@ -1,4 +1,4 @@
-# cecnn-classification[README (2).md](https://github.com/user-attachments/files/26462635/README.2.md)
+# cecnn-classification
 # AI-Assisted Classification of Colorectal Lesions in Colonoscopy Using Attention-Enhanced CNN
 
 > **Manuscript:** *AI-Assisted Classification of Colorectal Lesions in Colonoscopy Using Attention Enhanced CNN*  
